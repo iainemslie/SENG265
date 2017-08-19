@@ -1,6 +1,6 @@
 This course covered topics such as:
 
-Programming in C
+Programming in C \n
 Programming in Python
 Software development in UNIX based systems
 Version Control
