@@ -5,10 +5,10 @@ This course covered topics such as:
 
 Programming in C
 Programming in Python
-Software development in UNIX based systems
-Version Control
-Regular Expressions
-Dynamic Memory in C
+Software development in a UNIX environment
+Version control
+Regular expressions
+Dynamic memory in C
 Makefiles
 Debugging
-Data compression techniques 
+Data compression techniques
